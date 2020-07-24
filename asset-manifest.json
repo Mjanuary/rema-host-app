@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/rema-host-app/static/css/main.7efb821b.chunk.css",
+    "main.js": "/rema-host-app/static/js/main.56c52848.chunk.js",
+    "main.js.map": "/rema-host-app/static/js/main.56c52848.chunk.js.map",
+    "runtime-main.js": "/rema-host-app/static/js/runtime-main.35623f36.js",
+    "runtime-main.js.map": "/rema-host-app/static/js/runtime-main.35623f36.js.map",
+    "static/js/2.5ac01835.chunk.js": "/rema-host-app/static/js/2.5ac01835.chunk.js",
+    "static/js/2.5ac01835.chunk.js.map": "/rema-host-app/static/js/2.5ac01835.chunk.js.map",
+    "index.html": "/rema-host-app/index.html",
+    "precache-manifest.7ffbb0d3ebd06dd0bbe7b43e1a54707b.js": "/rema-host-app/precache-manifest.7ffbb0d3ebd06dd0bbe7b43e1a54707b.js",
+    "service-worker.js": "/rema-host-app/service-worker.js",
+    "static/css/main.7efb821b.chunk.css.map": "/rema-host-app/static/css/main.7efb821b.chunk.css.map",
+    "static/js/2.5ac01835.chunk.js.LICENSE.txt": "/rema-host-app/static/js/2.5ac01835.chunk.js.LICENSE.txt",
+    "static/media/Administrative and Geographical Characteristics of NAKU.png": "/rema-host-app/static/media/Administrative and Geographical Characteristics of NAKU.2a5b7b2e.png",
+    "static/media/Existing Soil Control Mechanisms.png": "/rema-host-app/static/media/Existing Soil Control Mechanisms.68589e54.png",
+    "static/media/Flood and Landslide Hazards Risk.png": "/rema-host-app/static/media/Flood and Landslide Hazards Risk.cd4e25ba.png",
+    "static/media/Geology.png": "/rema-host-app/static/media/Geology.ffa302ed.png",
+    "static/media/Hydrographic Characteristics.png": "/rema-host-app/static/media/Hydrographic Characteristics.b8b7dfc5.png",
+    "static/media/Location of the catchments.png": "/rema-host-app/static/media/Location of the catchments.956918ea.png",
+    "static/media/rema_icon.png": "/rema-host-app/static/media/rema_icon.253e45f4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35623f36.js",
+    "static/js/2.5ac01835.chunk.js",
+    "static/css/main.7efb821b.chunk.css",
+    "static/js/main.56c52848.chunk.js"
+  ]
+}
