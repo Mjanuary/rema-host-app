@@ -1,0 +1,67 @@
+body {
+  background-color: #eef1fa !important;
+}
+
+// .AppContainner {
+//   // padding-top: 2rem;
+// }
+
+.backDrop {
+  background-color: #00000061;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1111;
+}
+
+.modalContainer {
+  position: fixed;
+  top: 1rem;
+  right: 0;
+  left: 0;
+  z-index: 1111111111111;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.mx-height {
+  height: 300px;
+}
+
+.bg-primary-selected {
+  color: #007bff !important;
+  background-color: #007bff23 !important;
+}
+
+.list-group-item:hover {
+  color: #007bff !important;
+  background-color: #007bff23 !important;
+}
+
+.pop-div-select {
+  position: fixed;
+  top: 100px;
+  left: 20px;
+  width: 300px;
+  height: 400px;
+  z-index: 111111111;
+}
+
+.images-container {
+  width: 200px;
+  float: left;
+  margin: 8px;
+
+  img {
+    width: 100%;
+  }
+}
+
+.clear-both {
+  clear: both;
+  font-size: 0px;
+}

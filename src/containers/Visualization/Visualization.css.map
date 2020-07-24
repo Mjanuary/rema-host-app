@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,mBAAmB,CAAC;EAClB,SAAS,EAAE,QAAQ;CACpB",
+    "sources": [
+        "Visualization.scss"
+    ],
+    "names": [],
+    "file": "Visualization.css"
+}

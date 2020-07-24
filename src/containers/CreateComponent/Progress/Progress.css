@@ -1,0 +1,56 @@
+.ProgressForm {
+  border: 2px solid #007bff;
+}
+
+.ProgressForm .formProgressContainer {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 107px 1fr 1fr 1fr 1fr;
+      grid-template-columns: 107px 1fr 1fr 1fr 1fr;
+}
+
+.ProgressForm .formProgressContainer .item-container {
+  margin: 2px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+
+.ProgressForm .formProgressContainer .item-container .contents-item-form {
+  width: 100px;
+  text-align: center;
+}
+
+.ProgressForm .formProgressContainer .item-container .contents-item-form .pointer-section {
+  width: 32px;
+  height: 32px;
+  margin: auto;
+  border-radius: 99999999px;
+  border: 4px solid transparent;
+  margin-bottom: 6px;
+}
+
+.ProgressForm .formProgressContainer .item-container .contents-item-form .pointer-section section {
+  width: 81%;
+  height: 76%;
+  margin: 10%;
+  border-radius: 99999999px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.ProgressForm .formProgressContainer .item-container .progress-item-form {
+  padding-top: 2px;
+  width: 100%;
+  float: left;
+  height: 5px;
+  margin-top: 13px;
+  margin-right: -18px;
+  margin-left: -17px;
+  border-radius: 30px;
+}
+/*# sourceMappingURL=Progress.css.map */

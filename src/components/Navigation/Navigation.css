@@ -1,0 +1,19 @@
+.Navigation-Logo {
+  height: 48px;
+  margin-top: -10px;
+  margin-bottom: -9px;
+}
+
+.Navigation .active {
+  font-weight: bold !important;
+  color: #007bff !important;
+}
+
+.pop-userDetails {
+  position: fixed;
+  top: 62px;
+  z-index: 11111111;
+  width: 300px;
+  right: 31px;
+}
+/*# sourceMappingURL=Navigation.css.map */
